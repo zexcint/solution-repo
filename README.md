@@ -1,8 +1,13 @@
-# Frontend Roadmap Challenges
+# Frontend Roadmap Challenges 🚩
 
-### 🎯 Proyectos Completados
-1. Custom Dropdown Component  
-   `HTML` `CSS` `JavaScript`
+---
 
-### ⏭️ Próximos Desafíos
+### 🏆 Proyectos Completados  
+**1. Custom Dropdown**  
+`HTML` `CSS` `JavaScript`  
+📦 [Ver repositorio](https://github.com/zexcint/solution-repo/tree/main/custom-dropdown)
+
+---
+
+### 🔜 Próximos Desafíos
 - 24hr Story Feature
