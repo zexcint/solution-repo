@@ -2,12 +2,13 @@
 
 ---
 
-### 🏆 Proyectos Completados  
+### 🏆 Completed Projects  
 **1. Custom Dropdown**  
 `HTML` `CSS` `JavaScript`  
-📦 [Ver repositorio](https://github.com/zexcint/solution-repo/tree/main/custom-dropdown)
+📋 [Challenge Details](https://roadmap.sh/projects/custom-dropdown)  
+📦 [View Solution](https://github.com/zexcint/solution-repo/tree/main/custom-dropdown)
 
 ---
 
-### 🔜 Próximos Desafíos
+### 🔜 Upcoming Challenges
 - 24hr Story Feature
